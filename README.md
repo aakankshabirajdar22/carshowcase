@@ -13,3 +13,17 @@ Deployment can be viewed here : https://wonderful-coast-05e0e2410.1.azurestatica
 For deploying a static webapp using Azure Static web app service we have to make a resource group and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
 
 # Steps followed for hosting Static Web App
+[![Screenshot-78.png](https://i.postimg.cc/B6r6BSXK/Screenshot-78.png)](https://postimg.cc/471sJTvf)
+
+[![Screenshot-80.png](https://i.postimg.cc/90kDSd8r/Screenshot-80.png)](https://postimg.cc/rRSyRrLk)
+
+[![Screenshot-84.png](https://i.postimg.cc/jjrfj5CH/Screenshot-84.png)](https://postimg.cc/sMwx63Yx)
+
+[![Screenshot-85.png](https://i.postimg.cc/j29wYqGJ/Screenshot-85.png)](https://postimg.cc/CnGLj0MF)
+
+[![Screenshot-86.png](https://i.postimg.cc/rpcdkPYg/Screenshot-86.png)](https://postimg.cc/18CR0JSN)
+
+[![Screenshot-87.png](https://i.postimg.cc/CdTh4R3J/Screenshot-87.png)](https://postimg.cc/cthGxL48)
+
+[![Screenshot-88.png](https://i.postimg.cc/SKTzfGDr/Screenshot-88.png)](https://postimg.cc/4KcdJpC7)
+
