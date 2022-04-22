@@ -11,3 +11,5 @@ Carshowcase website help people get the detail view and specification and look o
 Deployment can be viewed here : https://wonderful-coast-05e0e2410.1.azurestaticapps.net/
 
 For deploying a static webapp using Azure Static web app service we have to make a resource group and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
+
+# Steps followed for hosting Static Web App
